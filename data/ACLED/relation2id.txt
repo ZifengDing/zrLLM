@@ -1,0 +1,23 @@
+Explosions/Remote violence_Grenade	0
+Riots_Mob violence	1
+Battles_Armed clash	2
+Strategic developments_Disrupted weapons use	3
+Explosions/Remote violence_Remote explosive/landmine/IED	4
+Violence against civilians_Attack	5
+Strategic developments_Looting/property destruction	6
+Protests_Protest with intervention	7
+Riots_Violent demonstration	8
+Violence against civilians_Abduction/forced disappearance	9
+Strategic developments_Other	10
+Protests_Peaceful protest	11
+Strategic developments_Agreement	12
+Strategic developments_Arrests	13
+Explosions/Remote violence_Air/drone strike	14
+Explosions/Remote violence_Shelling/artillery/missile attack	15
+Battles_Government regains territory	16
+Violence against civilians_Sexual violence	17
+Protests_Excessive force against protesters	18
+Strategic developments_Change to group/activity	19
+Battles_Non-state actor overtakes territory	20
+Strategic developments_Non-violent transfer of territory	21
+Explosions/Remote violence_Suicide bomb	22

@@ -1,0 +1,253 @@
+Use unconventional violence: This relation indicates an event where unconventional methods of violence, such as guerrilla tactics or terrorist acts, have been employed.
+Threaten: This relation signifies a situation where one party communicates a threat to another, typically implying potential harm or negative consequences if certain conditions are not met.
+Make a visit: This relation implies that an individual or a delegation from one entity is visiting another entity, which could be for diplomatic, business, or various other purposes.
+Host a visit: This relation denotes that an entity is hosting a visit from another entity, often implying that they are responsible for accommodating and facilitating the visiting party.
+Make statement: This relation involves the act of making a formal statement or announcement, which could be related to policy, intention, or other matters of significance.
+Reject: In this context, "reject" indicates the refusal to accept or agree with a proposal, request, or offer made by another party.
+Express intent to meet or negotiate: This relation suggests that an entity has expressed a desire or intention to engage in discussions or negotiations with another party.
+Accuse: This relation signifies the act of formally accusing another entity or individual of wrongdoing, which could involve legal or diplomatic consequences.
+Investigate: This relation implies that an entity is conducting an official inquiry or investigation into a particular matter, such as a crime or corruption allegation.
+Acknowledge or claim responsibility: This relation indicates an entity's acknowledgment or claim of responsibility for a particular action or event, which could be positive or negative.
+Make an appeal or request: This relation signifies the act of making a formal appeal or request for assistance, cooperation, or action from another entity.
+Criticize or denounce: This relation suggests the act of publicly criticizing or denouncing the actions, policies, or behavior of another entity.
+Express intent to de-escalate military engagement: This relation implies that an entity has expressed its intention to reduce or de-escalate military confrontations or conflicts.
+Consult: This relation indicates that entities are engaging in formal consultations or discussions, often to seek advice, guidance, or consensus on specific issues.
+Demonstrate or rally: This relation denotes the act of organizing and participating in public demonstrations, rallies, or protests to convey a message or express support for a cause.
+Praise or endorse: This relation signifies the act of publicly expressing admiration, approval, or support for another entity or its actions.
+Confiscate property: This relation implies the seizure or confiscation of property, assets, or resources by an entity, which could be for various reasons, including legal or political.
+Provide aid: This relation denotes the act of offering assistance, support, or aid to another entity in times of need, such as during natural disasters or humanitarian crises.
+Assassinate: This relation signifies the targeted killing of an individual, often with political or strategic motives.
+Use conventional military force: This relation implies the deployment and use of conventional military forces in a conflict or military operation.
+Arrest, detain, or charge with legal action: This relation indicates the arrest, detention, or legal action taken against an individual or entity, often for alleged criminal or legal violations.
+Retreat or surrender militarily: This relation suggests that an entity has chosen to retreat from or surrender in a military engagement or conflict.
+Mobilize or increase armed forces: This relation implies the action of mobilizing and increasing the strength of armed forces, often in response to perceived threats or conflicts.
+Yield: This relation signifies an entity's decision to yield or give in to pressure, demands, or circumstances, often implying a concession.
+Demand: In this context, "demand" indicates the act of making a formal request or requirement, often with an expectation of compliance.
+Investigate crime, corruption: This relation involves conducting an official investigation into allegations of criminal activities or corruption within a jurisdiction. It typically includes efforts by law enforcement or anti-corruption agencies to gather evidence and hold individuals or organizations accountable for unlawful actions.
+Express intent to cooperate militarily: This relation implies that an entity has expressed its intention to engage in military cooperation or joint operations with another entity.
+Return, release person(s): This relation suggests that an entity is returning or releasing individuals who may have been detained or held for various reasons.
+Engage in negotiation: This relation indicates that entities are actively involved in diplomatic negotiations or discussions, often aimed at reaching agreements or resolving conflicts.
+Threaten with military force: This relation signifies the act of issuing a threat that involves the potential use of military force as a means of coercion or deterrence.
+Sign formal agreement: This relation implies that entities have reached an agreement and have formally signed a document to codify their commitments or obligations.
+Fight with small arms and light weapons: This relation signifies a conflict or engagement involving the use of small firearms and light weaponry, typically used by infantry or irregular forces.
+Use tactics of violent repression: This relation indicates the implementation of strategies or tactics aimed at forcefully suppressing opposition or dissent, often through violent means.
+Express intent to provide material aid: This relation implies the expression of an entity's intention to offer tangible assistance or resources to another entity, typically in the form of supplies, equipment, or support.
+Reduce or break diplomatic relations: This relation involves the decision of one entity to either reduce or completely sever diplomatic ties and communication with another entity, often in response to political or diplomatic disputes.
+Provide humanitarian aid: This relation denotes the act of delivering assistance, relief, or support, usually in the form of food, medical supplies, and other essentials, to alleviate human suffering in crisis situations.
+Engage in symbolic act: This relation signifies an action or gesture that holds symbolic meaning or significance, often used to convey a message or express a stance on an issue.
+Abduct, hijack, or take hostage: This relation indicates the unlawful act of forcibly taking individuals captive, often with the intention of using them as bargaining chips or for other purposes.
+Return, release property: This relation implies the act of returning or releasing property or assets that may have been confiscated or held by one entity, typically after a negotiation or agreement.
+Refuse to yield: In this context, "refuse to yield" suggests that an entity is unwilling to concede or give in to pressure, demands, or circumstances, often implying a determined stance.
+Make optimistic comment: This relation involves making positive or hopeful statements or comments, often about the future or a specific situation.
+Consider policy option: This relation implies the act of evaluating and deliberating on various policy options or courses of action, typically in a decision-making context.
+Reduce relations: This relation indicates the deliberate reduction of diplomatic, political, or other types of relations between two entities, often as a response to tensions or conflicts.
+Express intent to cooperate: This relation signifies the communication of an entity's willingness or intention to collaborate and work together with another entity.
+Make empathetic comment: This relation involves expressing empathy or understanding towards the feelings or experiences of others, typically in response to a situation or event.
+Make pessimistic comment: This relation implies the expression of negative or pessimistic viewpoints or comments, often regarding a specific situation or outcome.
+Impose administrative sanctions: This relation denotes the imposition of administrative measures or penalties by an entity, often for regulatory or disciplinary reasons.
+Engage in diplomatic cooperation: This relation signifies entities working together through diplomatic channels to achieve common goals, resolve disputes, or promote mutual interests.
+Physically assault: This relation indicates the act of physically attacking or assaulting an individual or entity, often resulting in harm or injury.
+Increase police alert status: This relation implies the elevation of the alert status or readiness of law enforcement or police forces in response to a potential threat or situation.
+Appeal for change in institutions, regime: This relation involves making appeals or calls for changes in governmental institutions or leadership, often associated with political activism or advocacy.
+Express intent to engage in diplomatic cooperation (such as policy support): This relation indicates an entity's intention to engage in diplomatic cooperation, specifically in the form of policy support or collaboration.
+Reject plan, agreement to settle dispute: This relation signifies the refusal to accept or agree to a proposed plan or agreement aimed at resolving a dispute or issue.
+Apologize: This relation involves the act of formally acknowledging and expressing regret for a mistake, offense, or wrongdoing.
+Grant diplomatic recognition: This relation indicates the official recognition of one entity by another as a sovereign state or political entity, often establishing diplomatic ties.
+Appeal for diplomatic cooperation (such as policy support): This relation involves making appeals or requests for diplomatic cooperation, specifically in the form of policy support or collaboration.
+Express accord: This relation signifies the expression of agreement, harmony, or consensus between entities on a particular issue or matter.
+Impose embargo, boycott, or sanctions: This relation denotes the implementation of economic measures, such as trade embargoes, boycotts, or sanctions, as a means of exerting pressure or enforcing policy objectives.
+Share intelligence or information: This relation implies the exchange of intelligence, data, or information between entities, often related to security, espionage, or cooperation.
+Discuss by telephone: This relation involves discussions or conversations that take place via telephone communication.
+Fight with artillery and tanks: This relation signifies a military conflict or engagement involving the use of heavy weaponry, such as artillery and tanks, often in a conventional warfare context.
+Deny responsibility: This relation involves an entity's refusal or rejection of any responsibility or culpability for a particular event, action, or situation.
+Obstruct passage, block: This relation signifies the act of intentionally blocking or hindering the passage or movement of people, vehicles, or goods, often with the intent to disrupt or control.
+Accuse of war crimes: This relation involves making formal accusations against an entity or individual for committing war crimes, which are serious violations of international humanitarian law during armed conflicts.
+Appeal for aid: This relation indicates a formal request or plea for assistance, typically in the form of support, resources, or relief, often in response to a crisis or emergency.
+Express intent to provide humanitarian aid: This relation implies an entity's expressed intention to offer humanitarian assistance, such as medical supplies, food, or shelter, to address humanitarian crises or alleviate suffering.
+Reject proposal to meet, discuss, or negotiate: This relation signifies the refusal to accept or engage in a proposed meeting, discussion, or negotiation on a specific matter.
+Demand material cooperation: This relation involves the act of demanding or requesting concrete, tangible cooperation from another entity, often in the context of achieving common goals.
+Rally support on behalf of: This relation indicates the action of mobilizing or gathering support and resources on behalf of a particular cause, entity, or individual.
+Employ aerial weapons: This relation signifies the use of aerial weapons, such as airstrikes or aerial bombings, as part of military operations or conflicts.
+Increase military alert status: This relation implies the elevation of the alert status or readiness of military forces in response to a potential threat, conflict, or heightened tension.
+Kill by physical assault: This relation involves the act of causing the death of an individual through physical assault or violence.
+Express intent to cooperate economically: This relation signifies an entity's expressed intention to engage in economic cooperation or collaboration with another entity, often for mutual economic benefit.
+Mobilize or increase police power: This relation implies the activation or enhancement of police forces' capabilities and presence, typically in response to security concerns or threats.
+Express intent to provide economic aid: This relation indicates an entity's intention to offer economic aid or assistance to another entity, often in the form of financial support or resources.
+Occupy territory: This relation denotes the act of an entity taking control and physically occupying a specific geographic area or territory, often through military or political means.
+Appeal for judicial cooperation: This relation involves making appeals or requests for cooperation in the field of judiciary or legal matters, often related to cross-border legal issues.
+Coerce: This relation signifies the use of force, pressure, or intimidation to compel another entity to take specific actions or make certain decisions against its will.
+Complain officially: This relation involves the official submission of complaints or grievances by one entity to another, often through diplomatic or legal channels.
+Accuse of crime, corruption: This relation indicates the formal accusation of an entity or individual for engaging in criminal activities or corruption.
+Carry out suicide bombing: This relation signifies the act of executing a bombing attack in which the perpetrator intentionally kills themselves along with others, often as an act of terrorism.
+Conduct suicide, car, or other non-military bombing: This relation involves conducting a bombing attack, such as a suicide bombing or car bombing, that is not part of conventional military operations.
+Express intent to settle dispute: This relation implies an entity's expressed intention to resolve or settle a dispute through negotiations, mediation, or other peaceful means.
+Protest violently, riot: This relation indicates the engagement in violent protests or riots, often involving large groups of people expressing their grievances or demands through forceful actions.
+Demand diplomatic cooperation (such as policy support): This relation involves making demands or requests for diplomatic cooperation, particularly in the form of policy support or collaboration.
+Demand change in leadership: This relation signifies the demand for a change in the leadership or government of an entity, often associated with political movements or protests.
+Bring lawsuit against: This relation involves initiating legal proceedings or filing a lawsuit against an entity or individual, typically to seek legal remedies or redress.
+Cooperate economically: This relation indicates the act of engaging in economic cooperation or collaboration between entities, often for mutual economic benefit.
+Conduct strike or boycott: This relation signifies the organization and execution of strikes or boycotts, often as forms of protest or labor actions.
+Demonstrate military or police power: This relation involves showcasing or displaying the military or police power of an entity, often as a show of force or deterrence.
+Threaten with sanctions, boycott, embargo: This relation implies the use of threats related to economic measures such as sanctions, boycotts, or embargoes as a means of coercion or pressure on another entity.
+Conduct hunger strike: This relation involves individuals or groups voluntarily abstaining from food as a form of protest, often to draw attention to their grievances or demands.
+Ease administrative sanctions: This relation signifies the reduction or relaxation of administrative sanctions imposed by one entity on another, typically for regulatory or punitive reasons.
+Cooperate militarily: This relation indicates entities collaborating and working together in military operations or activities, often for common defense or security purposes.
+Accuse of human rights abuses: This relation involves making formal accusations against an entity or individual for violating human rights, often leading to international condemnation and scrutiny.
+Appeal for easing of economic sanctions, boycott, or embargo: This relation implies making appeals or requests for the reduction or lifting of economic sanctions, boycotts, or embargoes that have been imposed on an entity.
+Declare truce, ceasefire: This relation denotes the formal announcement of a temporary cessation of hostilities or armed conflict, often with the intention of negotiating a longer-term peace agreement.
+Receive deployment of peacekeepers: This relation indicates the acceptance or reception of peacekeeping forces or personnel from international organizations or other entities to help maintain peace and stability in a region.
+Provide military protection or peacekeeping: This relation signifies an entity's action of offering military protection or participating in peacekeeping missions to safeguard a specific area or region.
+Refuse to ease administrative sanctions: This relation involves the refusal to reduce or lift administrative sanctions previously imposed on another entity, often as a response to ongoing concerns or disputes.
+Rally opposition against: This relation involves the act of mobilizing and gathering support among various groups or individuals to oppose a particular entity or cause.
+Appeal for change in leadership: This relation signifies the appeal or call for a change in the leadership or government of an entity, often as part of a political or governance reform effort.
+Demand judicial cooperation: This relation involves making demands or requests for cooperation in the field of judiciary or legal matters, often related to cross-border legal issues.
+Appeal for intelligence: This relation implies making appeals or requests for intelligence or information, often related to national security or strategic interests.
+Expel or deport individuals: This relation signifies the act of forcibly removing or deporting individuals from a particular territory or country, often as a result of immigration or security policies.
+Threaten to impose state of emergency or martial law: This relation involves issuing threats to implement a state of emergency or martial law, often as a means of exerting control or responding to crises.
+Impose restrictions on political freedoms: This relation indicates the implementation of measures that limit or restrict political freedoms, such as freedom of speech or assembly, often for political or security reasons.
+Provide economic aid: This relation involves the act of offering economic assistance, often in the form of financial aid, loans, or development projects, to support economic growth and stability.
+Express intent to cooperate on judicial matters: This relation signifies an entity's expressed intention to collaborate on matters related to the judiciary or legal processes, often involving international legal cooperation.
+Sexually assault: This relation involves committing acts of sexual assault, which includes non-consensual sexual acts that violate the physical and emotional well-being of the victim.
+Appeal for release of persons or property: This relation implies making appeals or requests for the release of individuals or property that may have been detained, confiscated, or held under various circumstances.
+Expel or withdraw: This relation indicates the expulsion or withdrawal of entities or individuals from a specific area or territory, often as a result of diplomatic or political decisions.
+Demand de-escalation of military engagement: This relation involves making demands for the reduction or de-escalation of military engagement or conflicts, often in pursuit of peace and stability.
+Defy norms, law: This relation signifies the act of intentionally disregarding established norms or laws, often leading to non-compliance or challenges to the existing legal framework.
+Reject judicial cooperation: This relation involves the refusal to engage in or accept cooperation on judicial matters, often in response to legal requests or agreements.
+Impose blockade, restrict movement: This relation denotes the act of imposing a blockade or restricting the movement of goods, people, or vehicles in a particular area or along a border.
+Mediate: This relation implies the involvement of a third party or mediator in facilitating negotiations or discussions between conflicting parties to reach a resolution or agreement.
+Provide military aid: This relation involves the provision of military assistance, often in the form of weapons, training, or resources, to another entity to enhance its military capabilities.
+Engage in judicial cooperation: This relation signifies entities working together through judicial cooperation, often involving the exchange of legal information or collaboration on legal matters.
+Express intent to release persons or property: This relation implies an entity's expressed intention to release individuals or property that may have been detained or held under various circumstances.
+Accuse of espionage, treason: This relation involves making formal accusations against an entity or individual for engaging in espionage or treasonous activities against the state or another entity.
+Accede to requests or demands for political reform: This relation involves an entity agreeing to or accepting requests or demands for political reforms, often in response to public or international pressure.
+Express intent to mediate: This relation signifies an entity's expressed intention to act as a mediator or intermediary in resolving a conflict or facilitating negotiations between other parties.
+Threaten non-force: This relation implies issuing threats or warnings that do not involve the use of physical force but may still convey the potential for negative consequences if certain conditions are not met.
+Reduce or stop economic assistance: This relation involves the reduction or termination of economic assistance, such as foreign aid or financial support, provided to another entity.
+Decline comment: This relation signifies the decision to decline or withhold comments or statements on a particular matter or issue.
+Refuse to release persons or property: This relation indicates the refusal to release individuals or property that may have been detained or held under various circumstances.
+Engage in mass killings: This relation involves the deliberate and systematic killing of a large number of individuals, often in a violent and indiscriminate manner, typically considered a grave human rights violation.
+Appeal to engage in or accept mediation: This relation implies making appeals or requests for parties involved in a conflict or dispute to engage in or accept mediation as a means of resolving their differences.
+Torture: This relation signifies the act of inflicting severe physical or psychological pain and suffering on individuals, often as a form of punishment, interrogation, or coercion, considered a serious violation of human rights and international law.
+Express intent to ease economic sanctions, boycott, or embargo: This relation indicates an entity's expressed intention to reduce or alleviate economic sanctions, boycotts, or embargoes that may have been imposed on another entity.
+Grant asylum: This relation involves the act of offering asylum or refuge to individuals who seek protection and safety in another country, typically due to persecution or danger in their home country.
+Expel or withdraw peacekeepers: This relation signifies the expulsion or withdrawal of peacekeeping forces or personnel from a particular area or region, often as a response to changing circumstances or political decisions.
+Halt negotiations: This relation involves the decision to halt or suspend ongoing negotiations or discussions on a specific matter, often as a result of a breakdown in communication or an impasse.
+Ease economic sanctions, boycott, embargo: This relation denotes the reduction or lifting of economic sanctions, boycotts, or embargoes that have been previously imposed on an entity.
+Impose curfew: This relation implies the implementation of a curfew, typically involving restrictions on the movement of people during specific hours, often for security or public safety reasons.
+Engage in material cooperation: This relation signifies entities collaborating and working together in a tangible or material manner, often to achieve common goals or objectives.
+Meet at a 'third' location: This relation involves parties meeting at a location that is neutral or outside the territories of the involved entities, often for diplomatic or negotiation purposes.
+Express intent to accept mediation: This relation implies an entity's expressed intention to accept mediation from a third party or mediator in an effort to resolve a dispute or conflict.
+Accede to demands for change in leadership: This relation signifies an entity's agreement to demands for a change in its leadership or government structure, often in response to popular protests or political pressure.
+Appeal to others to meet or negotiate: This relation involves making appeals or requests to other parties or entities to come together for meetings or negotiations to address specific issues or conflicts.
+Accede to demands for change in policy: This relation indicates an entity's agreement to demands for a change in its policies or practices, often in response to public or international pressure.
+Express intent to yield: This relation signifies an entity's expressed intention to yield or give in to demands, pressure, or circumstances, often implying a willingness to compromise.
+Demand economic aid: This relation involves making demands or requests for economic aid or assistance, often in the form of financial support or resources.
+Veto: This relation signifies the exercise of a veto, often by a governing body or individual, to reject or block a particular proposal, decision, or action.
+Seize or damage property: This relation indicates the act of seizing or causing damage to property or assets, often as a result of conflicts, disputes, or actions.
+Accede to demands for rights: This relation involves an entity agreeing to or accepting demands for the recognition or protection of certain rights, often related to civil liberties or human rights.
+Appeal for de-escalation of military engagement: This relation implies making appeals or requests for the de-escalation or reduction of military engagement or conflicts, often in pursuit of peace and stability.
+Impose state of emergency or martial law: This relation involves the imposition of a state of emergency or martial law, often as a response to crises, emergencies, or security threats.
+Demand policy change: This relation signifies making demands or requests for a change in government policies or actions, often related to specific issues or concerns.
+Appeal for material cooperation: This relation involves making appeals or requests for material or tangible cooperation from another entity, often in the context of achieving common objectives or goals.
+Demand meeting, negotiation: This relation involves making a formal demand or request for a meeting or negotiation, often with the intent to discuss and resolve specific issues or conflicts.
+Demand rights: This relation signifies the act of demanding or requesting the recognition or protection of specific rights, often related to civil liberties or human rights.
+Refuse to allow international involvement (non-mediation): This relation involves the refusal to permit international involvement or intervention in a situation or conflict, excluding mediation efforts.
+Demand easing of economic sanctions, boycott, or embargo: This relation implies making a formal demand or request for the reduction or lifting of economic sanctions, boycotts, or embargoes that have been imposed on an entity.
+Appeal for economic aid: This relation involves making appeals or requests for economic aid or assistance, typically in the form of financial support or resources to support economic development or relief efforts.
+Appeal for rights: This relation implies making appeals or requests for the recognition and protection of specific rights, often related to civil liberties or human rights.
+Appeal for humanitarian aid: This relation signifies making appeals or requests for humanitarian assistance, often involving relief supplies, food, medical aid, or shelter to address humanitarian crises.
+Defend verbally: This relation involves the act of verbally defending or justifying one's actions, policies, or positions, often in response to criticism or accusations.
+Demonstrate for leadership change: This relation implies organizing and participating in public demonstrations or protests to advocate for a change in leadership or government.
+Threaten to reduce or break relations: This relation signifies the act of issuing threats to reduce or sever diplomatic or political relations with another entity, often as a form of diplomatic pressure.
+Appeal for easing of administrative sanctions: This relation involves making appeals or requests for the reduction or easing of administrative sanctions or punitive measures.
+Give ultimatum: This relation signifies issuing a final, decisive demand or ultimatum, often with specific conditions or consequences if the demands are not met.
+Reject military cooperation: This relation involves the formal rejection or refusal to engage in military cooperation or collaboration with another entity.
+Reduce or stop military assistance: This relation indicates the reduction or termination of military assistance, such as weapons, training, or resources, provided to another entity.
+Appeal to others to settle dispute: This relation implies making appeals or requests to other parties or entities to take action and settle a dispute or conflict.
+Express intent to change leadership: This relation signifies an entity's expressed intention to change its leadership or government structure, often as part of a political transition or reform effort.
+Ease military blockade: This relation involves the act of reducing or lifting a military blockade or siege that may have been imposed on a particular area or region.
+Demonstrate for policy change: This relation implies organizing and participating in public demonstrations or protests to advocate for a change in government policies or practices.
+Demand humanitarian aid: This relation involves making formal demands or requests for humanitarian aid, typically involving relief supplies, food, medical aid, or shelter to address humanitarian crises.
+Demand that target yields: This relation signifies making demands that the target entity yield or concede to specific requests or conditions.
+Express intent to ease administrative sanctions: This relation implies an entity's expressed intention to reduce or ease administrative sanctions or punitive measures.
+Threaten with repression: This relation involves issuing threats of repression or harsh measures, often to suppress opposition or dissent.
+Reduce or stop material aid: This relation indicates the reduction or termination of material aid, resources, or supplies provided to another entity.
+Reduce or stop humanitarian assistance: This relation implies the reduction or termination of humanitarian assistance, often involving relief supplies, food, medical aid, or shelter provided to another entity.
+Refuse to de-escalate military engagement: This relation involves the refusal to de-escalate or reduce military engagement or conflicts, often in defiance of calls for peace or ceasefire.
+Appeal for policy change: This relation signifies making appeals or requests for a change in government policies or actions, often related to specific issues or concerns.
+Express intent to cooperate on intelligence: This relation implies an entity's expressed intention to cooperate on intelligence matters, typically related to security or information sharing.
+Express intent to change policy: This relation indicates an entity's expressed intention to change its policies or practices, often as part of a policy reform effort.
+Appeal for military aid: This relation involves making appeals or requests for military aid or assistance, typically involving weapons, equipment, or support for defense purposes.
+Express intent to provide military aid: This relation signifies an entity's expressed intention to provide military aid or assistance to another entity, often involving weapons, equipment, or support for defense purposes.
+Demand intelligence cooperation: This relation involves making formal demands or requests for cooperation in intelligence sharing and collaboration, often for security or information-sharing purposes.
+Accuse of aggression: This relation signifies making formal accusations against an entity for engaging in aggressive actions or behavior, often in violation of international norms or agreements.
+Refuse to ease economic sanctions, boycott, or embargo: This relation indicates the refusal to reduce or lift economic sanctions, boycotts, or embargoes previously imposed on another entity.
+Accede to demands for change in institutions, regime: This relation signifies an entity's agreement to demands for changes in its institutional or governmental structure, often in response to political pressure or reform efforts.
+Appeal for easing of political dissent: This relation involves making appeals or requests for the reduction of political dissent or opposition, often to promote stability or address political tensions.
+Demand mediation: This relation implies making formal demands or requests for mediation, often involving the intervention of a neutral third party to help resolve a dispute or conflict.
+Investigate human rights abuses: This relation indicates the initiation of investigations into allegations of human rights abuses, often to determine responsibility and seek justice.
+Appeal to yield: This relation involves making appeals or requests to another entity to yield or concede to specific demands or conditions.
+Reject material cooperation: This relation signifies the formal rejection or refusal to engage in material or tangible cooperation with another entity.
+Express intent to engage in material cooperation: This relation implies an entity's expressed intention to engage in material or tangible cooperation with another entity, often for mutual benefit.
+Engage in ethnic cleansing: This relation involves the deliberate and systematic removal or elimination of a specific ethnic or racial group from a particular region, often involving violence and persecution.
+Threaten to impose curfew: This relation signifies the issuance of threats to impose a curfew, typically involving restrictions on the movement of people during specific hours for security or public safety reasons.
+Investigate war crimes: This relation indicates the initiation of investigations into alleged war crimes, often involving serious violations of international humanitarian law during armed conflicts.
+Demand change in institutions, regime: This relation involves making formal demands or requests for changes in the institutions or regime of an entity, often as part of political reform efforts.
+Reject request or demand for material aid: This relation signifies the formal rejection or refusal to grant a request or demand for material aid, resources, or assistance.
+Express intent to provide military protection or peacekeeping: This relation implies an entity's expressed intention to provide military protection or engage in peacekeeping efforts to safeguard a specific area or region.
+Destroy property: This relation involves causing deliberate damage or destruction to property, often as a result of conflicts, disputes, or actions.
+Investigate military action: This relation indicates the initiation of investigations into specific military actions or operations, often for the purpose of assessing their legality or responsibility.
+Demobilize armed forces: This relation signifies the process of demobilizing or disbanding armed forces, often as part of post-conflict peacebuilding and stabilization efforts.
+Threaten with restrictions on political freedoms: This relation involves issuing threats to impose restrictions on political freedoms, such as freedom of speech or assembly, often as a means of exerting control or suppressing opposition.
+Engage in violent protest for policy change: This relation implies participating in violent protests or demonstrations with the goal of advocating for a change in government policies or practices.
+Engage in violent protest for leadership change: This relation involves participating in violent protests or demonstrations with the aim of achieving a change in leadership or government.
+Receive inspectors: This relation signifies the acceptance or reception of inspectors or investigative teams, often from international organizations, to assess compliance or investigate specific issues.
+Demand military aid: This relation involves making formal demands or requests for military aid or assistance, often involving weapons, equipment, or support for defense purposes.
+Express intent to change institutions, regime: This relation indicates an entity's expressed intention to change its institutional or governmental structure, often as part of political or governance reform efforts.
+Threaten with administrative sanctions: This relation involves issuing threats of administrative sanctions or punitive measures, often as a means of exerting pressure or control.
+Ban political parties or politicians: This relation signifies the act of banning or prohibiting political parties or politicians from participating in the political process, often as a result of political decisions or legal actions.
+Reject request for change in institutions, regime: This relation involves the formal rejection or refusal to grant a request for changes in the institutions or regime of an entity.
+Express intent to institute political reform: This relation implies an entity's expressed intention to institute political reforms or changes in its governance and political system.
+Demand easing of administrative sanctions: In this relation, an entity formally requests the reduction or alleviation of administrative sanctions or punitive measures that may have been imposed. These sanctions can include non-criminal penalties or restrictions, and the demand reflects a desire for leniency or relief from such measures.
+Demand settling of dispute: This relation involves making formal demands for the settlement of a dispute or conflict, often through negotiation or other means of conflict resolution.
+Appeal for political reform: This relation signifies making appeals or requests for political reforms or changes in the governance system of an entity, often to address political issues or improve governance.
+Appeal for economic cooperation: This relation involves making appeals or requests for economic cooperation and collaboration between entities, often with the aim of promoting economic growth and stability.
+Ease political dissent: This relation implies taking actions to reduce or alleviate political dissent or opposition, often to promote political stability or address political tensions.
+Reject mediation: This relation signifies the formal rejection or refusal to accept mediation efforts by a third party to help resolve a dispute or conflict.
+Attempt to assassinate: This relation involves making an attempt to assassinate or kill a specific individual or target, often as a means of eliminating a perceived threat or achieving a specific objective.
+Ease restrictions on political freedoms: This relation indicates taking actions to reduce or lift restrictions on political freedoms, such as freedom of speech or assembly, often to promote greater political openness.
+Demand economic cooperation: This relation involves making formal demands or requests for economic cooperation and collaboration between entities, often with the goal of enhancing economic relations.
+Reject economic cooperation: This relation signifies the formal rejection or refusal to engage in economic cooperation with another entity, often due to differences or disputes.
+Threaten to halt negotiations: This relation involves issuing threats to halt ongoing negotiations or discussions, often as a form of diplomatic pressure or leverage.
+Refuse to ease popular dissent: This relation indicates the refusal to address or ease popular dissent or opposition, often resulting in continued political tensions.
+Forgive: This relation signifies the act of granting forgiveness or pardoning individuals or entities for past actions or offenses.
+Reject request for military aid: This relation involves the formal rejection or refusal to grant a request for military aid or assistance.
+Demand release of persons or property: This relation signifies making formal demands for the release of individuals or property that may have been detained or held under various circumstances.
+Appeal for target to allow international involvement (non-mediation): This relation involves making appeals or requests for the target entity to allow international involvement or intervention in a situation, excluding mediation efforts.
+Express intent to allow international involvement (non-mediation): This relation implies an entity's expressed intention to allow international involvement or intervention in a situation, excluding mediation efforts.
+Demand material aid: This relation involves making formal demands or requests for material aid, resources, or assistance, often for various purposes, including humanitarian relief or support.
+Threaten to reduce or stop aid: This relation signifies the issuance of threats to reduce or terminate the provision of aid, often as a means of exerting pressure or influence.
+Threaten with political dissent, protest: This relation involves issuing threats of political dissent or protest, often as a means of expressing opposition or dissatisfaction.
+Obstruct passage to demand leadership change: This relation implies the act of obstructing or blocking passage or access to demand a change in leadership or government.
+Demand political reform: This relation involves making formal demands or requests for political reforms or changes in the governance system of an entity, often to address political issues or improve governance.
+Express intent to ease popular dissent: This relation signifies an entity's expressed intention to ease or alleviate popular dissent or opposition, often as a response to political tensions.
+Ease state of emergency or martial law: This relation involves taking actions to ease or lift a state of emergency or martial law that may have been imposed for security or public safety reasons.
+Violate ceasefire: This relation indicates a breach of a previously established ceasefire or truce, often involving the resumption of hostilities or armed conflict.
+Use chemical, biological, or radiological weapons: This relation involves the use of chemical, biological, or radiological weapons, often considered a serious violation of international law and humanitarian norms.
+Reject request for change in leadership: This relation signifies the formal rejection or refusal to grant a request for a change in leadership or government.
+Ease curfew: This relation involves taking actions to reduce or lift a curfew, typically involving restrictions on the movement of people during specific hours for security or public safety reasons.
+Allow humanitarian access: This relation signifies allowing access for humanitarian organizations to provide aid and assistance in areas affected by humanitarian crises.
+Reject request for economic aid: This relation involves the formal rejection or refusal to grant a request for economic aid or assistance.
+Threaten to ban political parties or politicians: This relation implies issuing threats to ban or prohibit political parties or politicians from participating in the political process, often as a means of exerting political control.
+Appeal for military protection or peacekeeping: This relation involves making appeals or requests for military protection or peacekeeping forces to be deployed in a specific area or region, often to maintain peace and security.
+Reject request for rights: This relation signifies the formal rejection or refusal to grant a request for the recognition or protection of specific rights, often related to civil liberties or human rights.
+Detonate nuclear weapons: This relation involves the act of detonating nuclear weapons, which can have catastrophic consequences and is a grave violation of international norms.
+Use as human shield: This relation implies using individuals or groups as human shields, often to protect military assets or installations from attack, which is considered a violation of human rights.
+Carry out car bombing: This relation signifies the act of carrying out a bombing using a vehicle (car bombing), often as a form of terrorism or insurgency.
+Conduct hunger strike for leadership change: This relation implies engaging in a hunger strike as a form of protest or demonstration with the aim of advocating for a change in leadership or government.
+Halt mediation: This relation involves the decision to halt or terminate ongoing mediation efforts, often as a result of changing circumstances or political decisions.
+Demand easing of political dissent: This relation involves making formal demands for the reduction or alleviation of political dissent or opposition, often to promote political stability.
+Carry out roadside bombing: This relation signifies the act of carrying out a bombing using explosives placed on or near a roadside, often as a form of guerrilla warfare or insurgency.
+Reject request for humanitarian aid: This relation involves the formal rejection or refusal to grant a request for humanitarian aid or assistance, often involving relief supplies, food, medical aid, or shelter.
+Conduct strike or boycott for leadership change: This relation implies organizing and participating in strikes or boycotts as a means of advocating for a change in leadership or government.
+Appeal for military cooperation: This relation involves making appeals or requests for military cooperation and collaboration between entities, often with the goal of enhancing military relations or security efforts.

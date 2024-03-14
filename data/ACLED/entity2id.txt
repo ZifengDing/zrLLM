@@ -1,0 +1,621 @@
+Mayi Mayi Militia (Biloze Bishambuke)	0
+Darfur Arab Militia (Sudan)	1
+Unicorn Guerrilla Force	2
+Shwe Nyar Myae People Defense Force	3
+Abkhoura Communal Militia (Chad)	4
+CMA: Coordination of Movements of the Azawad	5
+Azande Ani Kpi Gbe (Central African Republic)	6
+People's Defense Force - Mohnyin	7
+Naxal-Maoist Rebels (India)	8
+Civilians (Namibia)	9
+Unidentified Armed Group (Somalia)	10
+Unidentified Armed Group (Senegal)	11
+Hamar Ethnic Militia (Sudan)	12
+Police Forces of India (2014-) Border Security Force	13
+Military Forces of Ukraine (2019-) Navy	14
+Police Forces of Burundi (2005-)	15
+SEC: Supreme Eiye Confraternity (Nigeria)	16
+Protesters (Ethiopia)	17
+Police Forces of India (2014-) Manipur Rifles	18
+Civilians (Sweden)	19
+Civilians (Ghana)	20
+People's Defense Force - Thaton District Battalion 2	21
+Civilians (Afghanistan)	22
+Police Forces of Zambia (2021-)	23
+Civilians (Russia)	24
+Leelkayse Clan Militia (Somalia)	25
+Rioters (Czech Republic)	26
+Bor Clan Militia (South Sudan)	27
+Police Forces of Ukraine (2019-)	28
+Spring UAV Force - G3	29
+Protesters (Italy)	30
+Kashmir Rebels (Pakistan)	31
+Nvunayi Communal Militia (Democratic Republic of Congo)	32
+Habbaniyah Ethnic Militia (Sudan)	33
+KNPP/KA: Karenni National Progressive Party/Karenni Army	34
+Unidentified Armed Group (Niger)	35
+Military Forces of Cameroon (1982-)	36
+Police Forces of Myanmar (2021-) Prison Guards	37
+Civilians (Ethiopia)	38
+Unidentified Armed Group (Czech Republic)	39
+NPP: New Patriotic Party	40
+Police Forces of Greece (2019-)	41
+Civilians (Australia)	42
+Unidentified Armed Group (Russia)	43
+KNPLF: Karenni Nationalities People's Liberation Front	44
+Civilians (Morocco)	45
+Police Forces of Indonesia (2014-)	46
+Phoenix DF: Phoenix Defense Force (Nattalin)	47
+Ngumino Ethnic Militia (Democratic Republic of Congo)	48
+YRG: Yesagyo Revolution Group	49
+Unidentified Ethnic Militia (Sudan)	50
+Unidentified Communal Militia (South Sudan)	51
+Protesters (Bangladesh)	52
+Unidentified Armed Group (Sri Lanka)	53
+Protesters (Taiwan)	54
+Military Forces of Azerbaijan (2003-)	55
+Military Forces of the Philippines (2022-) Citizen Armed Force Geographical Unit	56
+Mituku Communal Militia (Democratic Republic of Congo)	57
+MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2021-)	58
+Islamic State (West Africa)	59
+Unidentified Armed Group (Myanmar)	60
+Civilians (Libya)	61
+Protesters (Sri Lanka)	62
+Islamic State (Afghanistan)	63
+Dinka Ethnic Militia (South Sudan)	64
+Military Forces of Burundi (2005-)	65
+ACDF: Asho Chin Defense Force	66
+Rioters (Republic of Congo)	67
+Police Forces of India (2014-)	68
+Police Forces of Mozambique (1990-)	69
+Rioters (Belgium)	70
+Black Wolf PDF	71
+People's Defense Force - Yinmarbin District	72
+People's Defense Force - Takaung	73
+People's Defense Force - Launglon	74
+Police Forces of Ethiopia (2018-) Oromia State Police	75
+Pauk Taung Paing Kyee Kan Aphwe: Southern Pauk Crow Group	76
+Civilians (India)	77
+Unidentified Anti-Coup Armed Group	78
+Rioters (Cameroon)	79
+Protesters (Afghanistan)	80
+Unidentified Armed Group (Central African Republic)	81
+Civilians (Mauritius)	82
+Ambulin Tribal Militia (Papua New Guinea)	83
+Protesters (Nepal)	84
+Turkana Ethnic Militia (Kenya)	85
+Police Forces of Uganda (1986-)	86
+Pyu Saw Htee	87
+PADF: People Anti-Fascist Defense Force	88
+TMC: Trinamool Congress Party	89
+Chini Ya Kilima-FPIC: Patriotic and Integrationist Force of Congo	90
+Txifamesso Communal Militia (Angola)	91
+Military Forces of Niger (2023-)	92
+Military Forces of Sudan (2019-) Abu Tira	93
+Rioters (Zambia)	94
+Protesters (Georgia)	95
+ARSA: Arakan Rohingya Salvation Army	96
+M.P.L People's Defense Force	97
+FDLR: Democratic Forces for the Liberation of Rwanda	98
+Samburu Ethnic Militia (Kenya)	99
+Maravar Caste Militia (India)	100
+Police Forces of Ethiopia (2018-)	101
+Police Forces of Russia (2000-)	102
+Unidentified Armed Group (Bosnia and Herzegovina)	103
+Police Forces of India (2014-) Indian Reserve Battalion	104
+SRA: Sindhudesh Revolutionary Army	105
+Bo Tiger People Defense Force (Wetlet)	106
+Unidentified Armed Group (Azerbaijan)	107
+Unidentified Armed Group (Ghana)	108
+FKPPI: Community Forum for Sons and Daughters of the Police and Armed Forces	109
+AQIM: Al Qaeda in the Islamic Maghreb	110
+Dajo Ethnic Militia (Sudan)	111
+People's Defense Force - Katha	112
+People's Defense Force - Kyauktaga	113
+Dahalo Militia	114
+Civilians (Kenya)	115
+SSPP/SSA-N: Shan State Progress Party/Shan State Army-North	116
+Police Forces of Belgium (2020-)	117
+Police Forces of Myanmar (2021-)	118
+Boko Haram - Jamaatu Ahli is-Sunnah lid-Dawati wal-Jihad	119
+Unidentified Armed Group (Ethiopia)	120
+Military Forces of the Democratic Republic of Congo (2019-) Naval Forces	121
+MILF: Moro Islamic Liberation Front	122
+Habar Gedir-Saleban Clan Militia (Somalia)	123
+NMD: No More Dictatorship People's Defense Force	124
+MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army	125
+LeJ: Lashkar-e-Jhangvi	126
+Unidentified Ethnic Militia (Kenya)	127
+Unidentified Armed Group (Greece)	128
+Dozo Communal Militia (Mali)	129
+NPA: New People's Army	130
+Police Forces of the Netherlands (2010-)	131
+Civilians (Chad)	132
+JNIM: Group for Support of Islam and Muslims and/or Islamic State (Sahel)	133
+Unidentified Military Forces	134
+Civilians (Malawi)	135
+People's Defense Force - Myaung Township T.G.R	136
+Unidentified Armed Group (Philippines)	137
+Police Forces of Pakistan (2022-) Counter Terrorism Department	138
+People's Defense Force - Thayarwady District	139
+Civilians (South Africa)	140
+Police Forces of Cyprus (2023-)	141
+Police Forces of Germany (2021-)	142
+Rapid Support Forces	143
+Military Forces of Indonesia (2014-)	144
+Civilians (Israel)	145
+Civilians (Armenia)	146
+Muanaquinzanji Communal Militia (Angola)	147
+Military Forces of Ukraine (2019-) Air Force	148
+Unidentified Communal Militia (Sudan)	149
+CDF: Chinland Defense Force	150
+Beni Halba Ethnic Militia (Sudan)	151
+Police Forces of Ethiopia (2018-) SNNP State Police	152
+Rioters (Northern Ireland)	153
+Military Forces of Burkina Faso (2022-)	154
+Darfur Communal Militia (Sudan)	155
+SPLM-N-Abdelaziz: Sudan People's Liberation Movement (North) (Abdelaziz al-Hilu faction)	156
+JNIM: Group for Support of Islam and Muslims	157
+Rioters (Mauritius)	158
+Military Forces of Morocco (1999-) Gendarmerie	159
+Military Forces of South Sudan (2011-)	160
+Popokabaka Communal Militia (Democratic Republic of Congo)	161
+People's Defense Force - Thayet District	162
+BLF: Baloch Liberation Front	163
+Natogyi People's Defense Force	164
+Civilians (Germany)	165
+Unidentified Armed Group (Burkina Faso)	166
+Private Security Forces (Netherlands)	167
+Civilians (Madagascar)	168
+Unidentified Armed Group (Cameroon)	169
+Civilians (Sierra Leone)	170
+Police Forces of Nigeria (2023-)	171
+Police Forces of Somalia (2022-) Puntland Police Force	172
+Unidentified Armed Group (Sudan)	173
+Black Russians	174
+Private Security Forces (Ghana)	175
+Military Forces of India (2014-)	176
+Military Forces of Algeria (2019-)	177
+Rioters (Angola)	178
+Rioters (Burundi)	179
+Police Forces of South Africa (1994-)	180
+Civilians (Italy)	181
+Rioters (Poland)	182
+APCLS: Alliance of Patriots for a Free and Sovereign Congo	183
+Civilians (Democratic Republic of Congo)	184
+Unidentified Clan Militia (Somalia)	185
+Police Forces of Kyrgyzstan (2021-) Prison Guards	186
+Civilians (Zambia)	187
+Muslim Militia (Pakistan)	188
+Malay Muslim Separatists (Thailand)	189
+Police Forces of Ghana (2017-) Metropolitan City Guards	190
+Military Forces of Chad (2021-)	191
+KNU/KNLA: Karen National Union/Karen National Liberation Army	192
+Civilians (Thailand)	193
+Rioters (Greece)	194
+Protesters (Uganda)	195
+Fano Youth Militia	196
+CPC: Coalition of Patriots for Change	197
+Rioters (Algeria)	198
+White Peacock Drone Tatphwe: White Peacock Drone Force	199
+People's Defense Force - Demoso	200
+Protesters (Madagascar)	201
+Civilians (Burkina Faso)	202
+Military Forces of Somaliland (2010-)	203
+FDLR: Democratic Forces for the Liberation of Rwanda and/or FLN: National Liberation Front (Rwanda)	204
+Military Forces of Somalia (2022-) Jubaland Security Force	205
+Karrayyu Ethnic Militia (Ethiopia)	206
+Rioters (Uzbekistan)	207
+Rioters (Uganda)	208
+Civilians (Cyprus)	209
+Scorpion People's Defense Force (Myaing)	210
+Unidentified Armed Group (Mali)	211
+People's Defense Force - Pale District Battalion 1	212
+Civilians (Nigeria)	213
+Military Forces of Nigeria (2023-)	214
+Fulani Ethnic Militia (Nigeria)	215
+Police Forces of China (2012-)	216
+Civilians (France)	217
+People's Defense Force - Gangaw District	218
+VDP: Volunteer for Defense of Homeland	219
+People's Defense Force - Yelekyun	220
+Police Forces of Indonesia (2014-) Mobile Brigade Corps	221
+Protesters (South Korea)	222
+People's Defense Force - Phyu	223
+Unidentified Armed Group (Uganda)	224
+Police Forces of Burkina Faso (2022-)	225
+Wagner Group	226
+Police Forces of Afghanistan (2021-) General Directorate of Intelligence	227
+People's Defense Force - Ngazun	228
+Unidentified Armed Group (India)	229
+Mobondo Militia (Democratic Republic of Congo)	230
+Kaekin Tribal Militia (Papua New Guinea)	231
+Rioters (Nepal)	232
+Protesters (South Africa)	233
+Rioters (Ethiopia)	234
+Rioters (Bangladesh)	235
+Civilians (Philippines)	236
+Military Forces of Somalia (2022-) Puntland Security Force	237
+Protesters (Australia)	238
+ATMIS: African Union Transition Mission in Somalia (2022-) (Ethiopia)	239
+DGRF: Dawei Guerrilla Revolution Force	240
+Civilians (Ukraine)	241
+Marehan-Wagardhac Sub-Clan Militia (Somalia)	242
+Nyatura Militia	243
+Rioters (India)	244
+Military Forces of Sudan (2019-) Military Intelligence Service	245
+M23: March 23 Movement	246
+Police Forces of India (2014-) Rapid Action Force	247
+Civilians (Egypt)	248
+People's Defense Force - Wuntho	249
+Military Forces of Kenya (2022-)	250
+Cap Al Jidad Communal Militia (Sudan)	251
+Zamfara Communal Militia (Nigeria)	252
+Protesters (China)	253
+Military Forces of Ukraine (2019-) Special Forces	254
+Civilians (China)	255
+Rioters (Ghana)	256
+Unidentified Armed Group (Libya)	257
+Black Eagle Defense Force-MMU	258
+Unidentified Communal Militia (Kenya)	259
+Military Forces of the Central African Republic (2016-) Gendarmerie	260
+Civilians (Papua New Guinea)	261
+KIO/KIA: Kachin Independence Organization/Kachin Independence Army	262
+Military Forces of Cameroon (1982-) Rapid Intervention Battalion	263
+Bakarise Communal Militia (Cameroon)	264
+Rioters (Mozambique)	265
+Rioters (Tanzania)	266
+Unidentified Armed Group (Moldova)	267
+Civilians (Northern Ireland)	268
+IPOB: Indigenous Peoples of Biafra	269
+Military Forces of Armenia (2018-)	270
+SJF: Shwebo Justice Force	271
+BLA: Baloch Liberation Army	272
+Civilians (Pakistan)	273
+PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army	274
+Military Forces of Rwanda (1994-)	275
+Police Forces of Mauritius (2018-)	276
+NSCN-K-NS: National Socialist Council of Nagaland-Khaplang-Niki Sumi	277
+Mbororo Ethnic Militia (Central African Republic)	278
+Kani People's Defense Force - KLG	279
+Military Forces of Afghanistan (2021-)	280
+Rioters (Guinea-Bissau)	281
+Police Forces of Mauritania (2019-)	282
+Military Forces of Ethiopia (2018-)	283
+Islamist Militia (Mozambique)	284
+Bagan Ogre Force	285
+Police Forces of Bangladesh (2009-) Border Guards Bangladesh	286
+ASG: Abu Sayyaf	287
+Abgal Clan Militia (Somalia)	288
+Military Forces of Mozambique (1990-)	289
+Rioters (Morocco)	290
+Maimbaya Communal Militia (Chad)	291
+Military Forces of Comoros (2016-)	292
+Police Forces of Guinea-Bissau (2020-)	293
+Chinland Defense Force - Tonzang	294
+Police Forces of India (2014-) Bomb Disposal Squad	295
+Police Forces of Burundi (2005-) Prison Guards	296
+Civilians (Guinea)	297
+Civilian JTF: Civilian Joint Task Force	298
+Police Forces of Somalia (2022-) Southwest Special Police Forces	299
+Singrauli Communal Militia (India)	300
+Protesters (Greece)	301
+Unidentified Armed Group (Italy)	302
+Anti-Drug Vigilantes (Philippines)	303
+Police Forces of Kenya (2022-) National Police Reservists	304
+ADF: Allied Democratic Forces	305
+DMSA: Dar Ma Sai Army	306
+Pokot Ethnic Militia (Kenya)	307
+Police Forces of Sudan (2019-) National Intelligence and Security Services	308
+Civilians (Cameroon)	309
+Unidentified Armed Group (Chad)	310
+PDAF: People's Defense Air Force	311
+Civilians (International)	312
+Kashmir Rebels (India)	313
+Police Forces of Angola (1975-)	314
+Batwa Ethnic Militia (Democratic Republic of Congo)	315
+Military Forces of Uganda (1986-)	316
+CPI (Maoist): Communist Party of India (Maoist)	317
+Police Forces of Egypt (2014-)	318
+Police Forces of Madagascar (2019-) Prison Guards	319
+Civilians (Moldova)	320
+Misseriya Ethnic Militia (Sudan)	321
+Murle Ethnic Militia (South Sudan)	322
+General Caste Militia (India)	323
+Hyper UAV Force	324
+Military Forces of Pakistan (2022-)	325
+Police Forces of Afghanistan (2021-)	326
+Police Forces of Ghana (2017-)	327
+Rioters (Indonesia)	328
+Unidentified Armed Group (Germany)	329
+Police Forces of Papua New Guinea (2019-)	330
+Military Forces of Benin (2016-)	331
+OPRF: Oppressed People's Revolutionary Force	332
+UNFICYP: United Nations Peacekeeping Force in Cyprus	333
+Protesters (Germany)	334
+Civilians (Azerbaijan)	335
+Islamic State (West Africa) and/or Boko Haram - Jamaatu Ahli is-Sunnah lid-Dawati wal-Jihad	336
+Hunters Group of Nigeria	337
+Al Shabaab	338
+KIO: Kuki Independent Organization	339
+Meitei Ethnic Militia (India)	340
+Protesters (Nigeria)	341
+Kaduna Communal Militia (Nigeria)	342
+Civilians (Uganda)	343
+Rioters (Kosovo)	344
+Police Forces of Somalia (2022-)	345
+Alawaka Local People's Defense Force	346
+Mbole Communal Militia (Democratic Republic of Congo)	347
+Hero Fighter - Salingyi	348
+Police Forces of Northern Cyprus (2020-)	349
+Danger Force LDF	350
+Rioters (Madagascar)	351
+Police Forces of Somaliland (2010-)	352
+Unidentified Armed Group (Nepal)	353
+Police Forces of the Democratic Republic of Congo (2019-)	354
+Police Forces of Ethiopia (2018-) Amhara State Police	355
+Military Forces of Somalia (2022-) Special Forces	356
+Civilians (Zimbabwe)	357
+Oyofo Communal Militia (Nigeria)	358
+Maasai Ethnic Militia (Tanzania)	359
+Protesters (Indonesia)	360
+SBFA: Shwebo Federal Army	361
+Police Forces of Bangladesh (2009-)	362
+Military Forces of Artsakh (2007-)	363
+Twirwaneho Ethnic Militia (Democratic Republic of Congo)	364
+Karamajong Ethnic Militia (Uganda)	365
+Rioters (Papua New Guinea)	366
+CNO/CNDF UCR: CNO/CNDF Upper Chindwin Region	367
+Unidentified Armed Group (Afghanistan)	368
+CMC: Coalition of Movements of Change of the Congo	369
+People's Defense Force - Pinlebu	370
+Civilians (Nepal)	371
+FACT: Front for Alteration and Harmony in Chad	372
+Pauk Based On Revolution Force - Bo Ta Say Aphwe: Pauk Based On Revolution Force - Bo Ta Say Group	373
+Police Forces of Sri Lanka (2019-)	374
+Jatoi Tribal Militia (Pakistan)	375
+Kuchi Tribal Militia (Afghanistan)	376
+Rioters (South Sudan)	377
+HM: Hizb-ul-Mujahideen	378
+Protesters (Sweden)	379
+WPF: West Plains Force	380
+FPAC: Ituri Self-Defense Popular Front (Zaire)	381
+Police Forces of the United Kingdom (2010-)	382
+Police Forces of Zimbabwe (2017-)	383
+Soul Takers - Yangon Underground Force	384
+BJP: Bharatiya Janata Party	385
+Protesters (United Kingdom)	386
+Military Forces of the Philippines (2022-)	387
+Military Forces of Ukraine (2019-)	388
+SLM/A-Minnawi: Sudan Liberation Movement/Army (Minnawi Faction)	389
+Police Forces of Italy (2022-)	390
+SSC: Sool, Sanaag and Cayn Militia	391
+People's Defense Force - Myaing	392
+Military Forces of India (2014-) Rashtriya Rifles	393
+CNF/CNA: Chin National Front/Chin National Army	394
+Armed Drug Suspects (Philippines)	395
+Rioters (Chad)	396
+Protesters (Democratic Republic of Congo)	397
+Rioters (Namibia)	398
+People's Defense Force - Myeik District	399
+Rioters (Nigeria)	400
+Rioters (Kenya)	401
+Civilians (Angola)	402
+Civilians (Hungary)	403
+Rioters (Sweden)	404
+Police Forces of Russia (2000-) Prison Guards	405
+Civilians (Greece)	406
+Pirates (Nigeria)	407
+TTP: Tehreek-i-Taliban Pakistan	408
+Civilians (Kazakhstan)	409
+CGF: Chauk Guerrilla Force	410
+Police Forces of Ukraine (2019-) State Emergency Service of Ukraine	411
+Civilians (Myanmar)	412
+Military Forces of Myanmar (2021-) People's Militia Force	413
+Afghanistan Freedom Front	414
+Dan Na Ambassagou	415
+Protesters (Finland)	416
+People's Defense Force - Kale District	417
+Military Forces of Turkey (2016-)	418
+ULF: Union Liberation Front	419
+Rioters (Cyprus)	420
+Civilians (Sri Lanka)	421
+Mehsud Tribal Militia (Pakistan)	422
+Salamat Ethnic Militia (Sudan)	423
+Police Forces of Kenya (2022-)	424
+Police Forces of Burkina Faso (2022-) Gendarmerie	425
+Unidentified Armed Group (Bangladesh)	426
+People's Defense Force - Kawlin District	427
+Police Forces of Taiwan (2016-)	428
+Unidentified Armed Group (Kenya)	429
+Protesters (Mauritania)	430
+Civilians (Central African Republic)	431
+Mayi Mayi Militia (UPLC: Union of Patriots for the Liberation of Congo)	432
+Police Forces of Bangladesh (2009-) Armed Police Battalion	433
+JJJ: Jatiya Jubo Jote	434
+Sokoto Communal Militia (Nigeria)	435
+Protesters (Netherlands)	436
+OLF: Oromo Liberation Front (Shane Splinter Faction)	437
+Rioters (Sierra Leone)	438
+Galon Column	439
+Unidentified Tribal Militia (Papua New Guinea)	440
+Military Forces of Russia (2000-) Luhansk People's Militia	441
+Civilians (Somalia)	442
+GTR-MMU: Ghost Team Ranger Myinmu	443
+CDF-KKG: Chinland Defense Force - Kalay-Kabaw-Gangaw Battalion 3	444
+Private Security Forces (Pakistan)	445
+Protesters (Ghana)	446
+People's Defense Force - Tigyaing	447
+People's Defense Force - Myingyan District Battalion 5	448
+CODECO-FDBC: Cooperative for Development of Congo (Force for the Defense of the Balkanization of Congo)	449
+RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South	450
+Civilians (Burundi)	451
+Unidentified Armed Group (Indonesia)	452
+BLPA: Black Leopard Army	453
+Military Forces of Thailand (2019-2023) Thai Rangers	454
+Police Forces of South Korea (2022-)	455
+Rioters (Mali)	456
+Police Forces of Sudan (2019-)	457
+People's Defense Force - Kanbalu District	458
+Military Forces of Togo (2005-)	459
+Unidentified Cult Militia (Nigeria)	460
+Protesters (Pakistan)	461
+Baloch Separatists (Pakistan)	462
+MNJTF: Multinational Joint Task Force	463
+Kebele Communal Militia (Ethiopia)	464
+Police Forces of Japan (2012-)	465
+Police Forces of Kenya (2022-) Prison Guards	466
+Rioters (Benin)	467
+Yoma Yar Zar	468
+Military Forces of the United States (2021-)	469
+Protesters (Armenia)	470
+JJMP: Jharkhand Jan Mukti Parishad	471
+Unidentified Armed Group (Pakistan)	472
+Police Forces of Australia (2022-)	473
+Cobra Column	474
+Unidentified Armed Group (Democratic Republic of Congo)	475
+MDF: Myanmar Defense Force	476
+Habar Gedir-Saad Sub-Clan Militia (Somalia)	477
+Military Forces of Russia (2000-) Donetsk People's Militia	478
+People's Defense Force - Shwebo District	479
+Rohingya Muslim Militia (Myanmar)	480
+Military Forces of the Central African Republic (2016-)	481
+Police Forces of Italy (2022-) DIGOS: General Investigations and Special Operations Division	482
+CNDD-FDD-Imbonerakure: National Council for the Defence of Democracy (Imbonerakure Faction)	483
+Military Forces of Madagascar (2019-) Gendarmerie	484
+People's Defense Force - Budalin	485
+MG6 Guerrilla Force	486
+Police Forces of Armenia (2018-)	487
+Civilians (Sudan)	488
+PDF: People's Defense Force	489
+Police Forces of the Philippines (2022-)	490
+Hindu Militia (India)	491
+Protesters (Morocco)	492
+Military Forces of Somalia (2022-) Jubaland Intelligence and Security Agency	493
+Civilians (Guinea-Bissau)	494
+Rioters (Malawi)	495
+Unidentified Armed Group (China)	496
+Police Forces of Pakistan (2022-) Bomb Disposal Squad	497
+Civilians (Kyrgyzstan)	498
+Police Forces of Ethiopia (2018-) Federal Police	499
+SNA: Shanni Nationalities Army	500
+Unidentified Armed Group (Guinea)	501
+Military Forces of Russia (2000-)	502
+Djerma Ethnic Militia (Niger)	503
+Rioters (Pakistan)	504
+Police Forces of Finland (2019-)	505
+Military Forces of Sudan (2019-)	506
+Military Forces of the Democratic Republic of Congo (2019-)	507
+Shar Htoo Waw Drone Nee Pyin Nyar Aphwe: Shar Htoo Waw Drone Technical Team	508
+Rioters (Afghanistan)	509
+Protesters (Japan)	510
+Police Forces of Nepal (2022-)	511
+Wild Tiger Shwebo LPDF	512
+KPDF-Namma: Kachin Region People Defence Force	513
+Rioters (Democratic Republic of Congo)	514
+Awha Communal Militia (Nigeria)	515
+Military Forces of Somalia (2022-)	516
+Rioters (Germany)	517
+Police Forces of the Czech Republic (2021-)	518
+Civilians (Bosnia and Herzegovina)	519
+Tha Khin Daung Nyo Pyauk Kyar Tatphwe: Master Brown Peacock Guerrilla Force	520
+Police Forces of Poland (2015-)	521
+Ambazonian Separatists (Cameroon)	522
+Golden Eagle Force - Monywa-V2	523
+Civilians (Bangladesh)	524
+CCMSR: Military Command Council for the Salvation of the Republic	525
+Mayi Mayi Militia (Bakata Katanga)	526
+People's Defense Force - Mogoke	527
+Police Forces of Niger (2023-)	528
+Police Forces of Kosovo (2020-)	529
+PRDF: Palaw Regional Defence Force	530
+Habar Gedir-Saleban Sub-Clan Militia (Somalia)	531
+KRF: Kyaikhto Revolution Force	532
+ATMIS: African Union Transition Mission in Somalia (2022-) (Uganda)	533
+Katsina Communal Militia (Nigeria)	534
+NTDF: Northern Thandaung Defense Force	535
+The Afghanistan Liberation Movement	536
+ZANU-PF: Zimbabwe African National Union-Patriotic Front	537
+ATMIS: African Union Transition Mission in Somalia (2022-) (Kenya)	538
+Police Forces of India (2014-) Assam Rifles	539
+People's Defense Force - Ayadaw	540
+ARSC: Anyar Region Strategic Command	541
+KNDF: Karenni Nationalities Defense Force	542
+PKU UG: Pakokku Underground	543
+JD(S): Janata Dal (Secular)	544
+444th Brigade	545
+Majeerteen Clan Militia (Somalia)	546
+Civilians (South Sudan)	547
+Kuki Tribal Militia (India)	548
+Police Forces of Pakistan (2022-) Frontier Corps	549
+Niger Communal Militia (Nigeria)	550
+Protesters (Niger)	551
+Military Forces of Russia (2000-) Chechen Battalion of Ramzan Kadyrov	552
+Police Forces of Georgia (2012-)	553
+CNO/CNDF: Chin National Organization/Chin National Defense Force	554
+Wolf Underground Force (Myaing)	555
+Mengal Tribal Militia (Pakistan)	556
+Mayi Mayi Militia (PARECO)	557
+Police Forces of Uzbekistan (2016-)	558
+TTP-HGB: Tehreek-i-Taliban Pakistan-Hafiz Gul Bahadur	559
+Military Forces of Niger (2023-) Gendarmerie	560
+Garxajis Clan Militia (Somalia)	561
+Civilians (Uzbekistan)	562
+Rioters (Guinea)	563
+Civilians (Indonesia)	564
+Military Forces of Russia (2000-) Navy	565
+Military Forces of Guinea (2021-) Gendarmerie	566
+Rioters (South Africa)	567
+Ramgarh Communal Militia (India)	568
+Djibrili Communal Militia (Cameroon)	569
+Unidentified Armed Group (South Africa)	570
+Rioters (Kazakhstan)	571
+Police Forces of Sweden (2019-)	572
+Bouar Communal Militia (Central African Republic)	573
+Special Force Column - PDF Commando Battalion	574
+Bul Clan Militia (South Sudan)	575
+Civilians (Niger)	576
+Hein Na Ka Local Defense Force - YMB	577
+Police Forces of Russia (2000-) Border Service	578
+Police Forces of Kazakhstan (2019-) Prison Guards	579
+Hawadle Clan Militia (Somalia)	580
+Military Forces of Chad (2021-) Gendarmerie	581
+TPNPB: West Papua National Liberation Army	582
+Police Forces of South Sudan (2011-)	583
+MONUSCO: United Nations Organization Stabilization Mission in Democratic Republic of Congo (2010-)	584
+Police Forces of Niger (2023-) National Guard	585
+Unidentified Armed Group (Nigeria)	586
+Habar Gedir-Ayr Sub-Clan Militia (Somalia)	587
+Military Forces of Myanmar (2021-)	588
+Civilians (Benin)	589
+SDF: Special Deterrence Forces	590
+Civilians (Mali)	591
+Islamic State (Sahel)	592
+PAFF: People's Anti-Fascist Front	593
+Private Security Forces (India)	594
+Rioters (Zimbabwe)	595
+Police Forces of Pakistan (2022-)	596
+Civilians (Senegal)	597
+Military Forces of Mali (2021-)	598
+Rioters (International)	599
+Police Forces of Thailand (2019-2023)	600
+Protesters (India)	601
+Mayi Mayi Militia	602
+Islamic State (Pakistan)	603
+Muslim Militia (India)	604
+CODECO: Cooperative for Development of Congo	605
+Civilians (Tanzania)	606
+Civilians (Comoros)	607
+ARF: Ayeyarwaddy Revolution Front	608
+Ayadaw Naung Yoe	609
+National Resistance Front	610
+People's Defense Force - Yesagyo	611
+Wazir Tribal Militia (Pakistan)	612
+Unidentified Armed Group (Australia)	613
+Bakwanjiba Communal Militia (Democratic Republic of Congo)	614
+MRDA: Myanmar's Royal Dragon Army	615
+MVRF: Myaing Villages Revolution Front	616
+Military Forces of Russia (2000-) Air Force	617
+Military Forces of Niger (2021-)	618
+UPC: Union for Peace in the Central African Republic	619
+Unidentified Armed Group (South Sudan)	620
