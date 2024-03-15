@@ -1,4 +1,4 @@
-This is the code implementation and data of our NAACL 2024 paper: zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models.
+This is the code and data of our NAACL 2024 paper: zrLLM: Zero-Shot Relational Learning on Temporal Knowledge Graphs with Large Language Models.
 
 #### Dataset
 Datasets are in the data.zip file. Each dataset is under the directory data/${DATASET}/.
