@@ -7,7 +7,7 @@ The enriched relation descriptions are also under data/${DATASET}/. If you wish 
 `python generate_emb.py`
 
 #### Software
-The code of seven baseline TKG forecasting methods equipped with zrLLM are in the software.zip file. Due to the size limit of code and data on openreview, we only provide the generated LLM-based relation representations of ACLED. If you wish, you can generate representations of ICEWS21 and ICEWS22 by yourself. We will make the generated LLM-based relation representations of ICEWS21 and ICEWS22 public after review. 
+The code of seven baseline TKG forecasting methods equipped with zrLLM are in the software.zip file. Due to the size limit of code and data on openreview, we only provide the generated LLM-based relation representations of ACLED. If you wish, you can generate representations of ICEWS21 and ICEWS22 by yourself. 
 
 #### How To Run
 **CyGNet**
